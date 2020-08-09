@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B8CD3B3EDB42EEABB2D487F8706AF6BB"
                BuildableName = "Fuse.framework"
-               BlueprintName = "Fuse"
+               BlueprintName = "Fuse iOS"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,7 +45,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B8CD3B3EDB42EEABB2D487F8706AF6BB"
             BuildableName = "Fuse.framework"
-            BlueprintName = "Fuse"
+            BlueprintName = "Fuse iOS"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -61,7 +61,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B8CD3B3EDB42EEABB2D487F8706AF6BB"
             BuildableName = "Fuse.framework"
-            BlueprintName = "Fuse"
+            BlueprintName = "Fuse iOS"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
